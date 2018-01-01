@@ -1,0 +1,41 @@
+body{
+	background:gray;
+	
+}
+
+.container_ful{
+	width:100%;
+	height:0 auto;
+	
+}
+.container_wrap{
+	width:960px;
+	margin:0 auto;
+}
+/*phon**/
+#contact_mail{
+	width:660px;
+	float:left;
+	min-height:247px;
+	margin-top:50px;
+	margin-right:60px;
+	border-left:1px solid red;
+	border-bottom:1px solid blue;
+	border-top:1px solid red;
+	border-right:1px solid blue;
+	padding:10px;
+}
+#contact_mail h2{
+	color:green;
+	animation-name:Anamation_1;
+	animation-duration:2s;
+	animation-iteration-count:infinite;
+	font-size:30px;
+}
+@keyframes Anamation_1{
+	0%{color:black;}
+	30%{color:green;}
+	50%{color:red;}
+	80%{color:blue;}
+	100%{color:black;}
+}

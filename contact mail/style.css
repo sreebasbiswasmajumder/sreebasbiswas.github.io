@@ -1,0 +1,92 @@
+*{padding:0;margin:0;}
+body{
+	background:#F6EBB7;
+	
+}
+.container_ful{
+	width:100%;
+	height:0 auto;
+}
+.container_wrap{
+	width:960px;
+	margin:0 auto;
+}
+.contacth3{
+		margin-top:35px;
+}
+#send{
+	padding:5px 10px;
+	border:2px solid green;
+	border-radius:5px;
+	transition:.5s;
+		
+}
+#send:hover{
+	background:green;
+	color:white;
+}
+
+#mail{
+	padding-left:50px;
+	
+	margin-top:20px;
+}
+
+fieldset{
+	margin-right:100px;
+	margin-bottom:20px;
+	background:#CFD4CD;
+	padding-bottom:7px;
+	float:left;
+	width:630px;
+}
+#contactnumber{
+	margin-left:30px;
+	font-size:120%;
+	
+}
+#emailaddress{
+	margin-left:30px;
+	font-size:120%;
+	
+}
+#number_mail_contact
+{
+	margin-left:30px;
+	font-size:120%;	
+}
+#mailinput
+{
+	margin-left:30px;
+	font-size:120%;	
+}
+
+#send
+{
+	margin-left:30px;
+	font-size:120%;	
+	cursor:pointer;
+}	
+#fullnamemail
+{
+	margin-left:30px;
+	font-size:120%;	
+}
+#fullname{
+	margin-left:30px;
+	font-size:120%;
+	
+}
+#contactnumber{
+	margin-left:30px;
+	font-size:120%;
+}
+#emailaddress{
+	margin-left:30px;
+	font-size:120%;
+	
+}	
+#mailarea{
+	margin-left:30px;
+}
+
